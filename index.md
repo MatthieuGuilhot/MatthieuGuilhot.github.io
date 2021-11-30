@@ -6,12 +6,13 @@ Page professionelle de [Matthieu Guilhot](mailto:matthieu.guilhot-gaudeffroy@uni
 
 # Mathématiques
 
-- [Cours statistique](statistique/)
+- [Algèbre](Algèbre/)
+- [Géométrie](Géométrie/)
+- [Analyse](Analyse/)
+- [Statistiques](Statistiques/)
+
 
 # Modélisation numérique
 
-# Liens utiles
 
-- [Experimentarium digital](https://experiences.math.cnrs.fr/)
-- [Cours de mathématiques](math/)
 
